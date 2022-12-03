@@ -10,7 +10,7 @@ pipeline {
     //   stage ('GIT') {
      //       steps {
       //         echo "Getting Project from Git"; 
-       //        git branch:"issasahbi", url : "https://github.com/issasahbi/Devops-gomycode.git"; 
+       //        git branch:"master", url : "https://github.com/issasahbi/Devops-gomycode.git"; 
        //     }
         //}
 
